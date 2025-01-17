@@ -1,5 +1,6 @@
 - [Homebrew](https://brew.sh/)
 - [zsh](https://wiki.ubuntuusers.de/Zsh/)
 - [oh-my-posh](https://ohmyposh.dev/docs/installation/linux)
+- [oh-my-posh Theme](https://github.com/dreamsofautonomy/zen-omp/tree/main)
 - [zoxide](https://github.com/ajeetdsouza/zoxide)
 - [bat](https://ohok.org/bat-is-the-better-cat/)
